@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> My First CSS </title> 
+<style type="text/css">
+h1{
+color:red;
+text-align: center;
+
+}
+
+H2 {
+color:blue;
+text-decoration:underline;
+text-align:center;
+}
+
+p {
+color: black
+}
+
+ul {
+font-sytle:italic
+}
+
+
+</style>
+</head>
+
+
+
+<body>
+<h1> This is Alexnader Finnikin </h1>
+<br>
+<p>Hi, My name is Alexander Azariah O'shandi Finnikin. I have spent 17 years on this earth. 
+
+<br>
+<a href=" />
+
+<h2></h2>
+ 
+<br>
+<h2>  </h2> 
+<p>  />
+
+<h2>  </h2>
+<ul>
+<li>  </li>
+<li>  </li>
+<li> </li>
+<li> </li>
+<li> </li>
+</ul>
+<br>
+<h2>  </h2>
+<ol>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+</ol>
+<h2>  </h2>
+<a </a>
+
+</body>
+<!--I like his merch-->
+<!--I like strawberry-->
+
+</html>

@@ -1,0 +1,24 @@
+h1{
+color:red;
+text-align: center;
+
+}
+
+H2 {
+color:blue;
+text-decoration:underline;
+text-align:center;
+}
+
+p {
+color: white
+}
+
+ul {
+font-sytle:italic
+}
+
+body {
+  background-image: url("ngg.jpg");
+background-size:"103%" "500%"
+}

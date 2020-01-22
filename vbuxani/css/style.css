@@ -1,0 +1,25 @@
+h1 {
+	
+	color: brown; 
+	text-align: center;
+	font-family: courier new;
+
+	}
+h2 {
+
+	color: green;
+}
+body{background-color: pink;
+}
+p{color: black;
+font-family: courier new;
+
+}
+li{color: black;
+font-family: courier new;
+}
+
+h3 {font-style: bold;
+text-align: center;
+}
+

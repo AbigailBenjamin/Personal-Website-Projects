@@ -1,0 +1,72 @@
+body
+{background-color:pink;
+
+}
+
+p {
+	color:purple;
+	margin: 40px 40px 40px 40px;
+	font-family: Lucida Calligraphy;
+	
+	}
+	
+	
+a {
+	margin: 40px 40px 40px 40px;
+	}
+	
+	
+h1 {
+		color:white;
+		text-align: center;
+		font-family: Courier New;
+		}
+
+
+h2 {
+		color:white;
+		text-align: center;
+		font-family: Courier New;
+		margin: 40px 40px 40px 40px;
+		text-decoration: underline overline;
+		}
+		
+		
+h3 {
+	text-align: center;
+
+}
+
+
+h4 {
+	text-align: right;
+}
+
+	
+h5 {
+	margin: 40px 40px 40px 40px;
+}
+
+
+ol {
+	color: #A35DB5;
+	font-weight: bold;
+	font-style: italic;
+}
+
+
+ul {
+	color: #A35DB5;
+	font-weight: bold;
+	font-style: italic;
+}
+	
+/*bleep blap blop*/
+
+/*	body{background-imgae: "url("background.pg")}	*/
+/*	#grad {background-image: linear-gradient(red, yellow);}	*/
+	
+
+
+
+

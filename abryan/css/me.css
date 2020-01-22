@@ -1,0 +1,35 @@
+h1{
+	color: white;
+	text-align: center;
+	text-decoration: underline;
+	font-family: Storybook;
+	font-weight: bold;
+	font-size:65px;
+}
+
+
+h2{
+	color: white;
+	font-family: Lucida Handwriting;
+}
+
+p{
+	color: grey;
+}
+
+ul{
+	color:grey;
+}
+
+body{
+	background-color: pink;
+}
+
+h4{
+	text-align: center;
+}
+
+ol{
+	color:grey;
+	font-family: Lucida Handwriting;
+	font-size: 45px;

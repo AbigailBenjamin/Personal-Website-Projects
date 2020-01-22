@@ -1,0 +1,73 @@
+body {margin: 5;}
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #111;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #111;}
+
+ul.topnav li a.active {background-color: #7A1E80;}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+  
+}
+
+	body{
+	background-color: #99b2dd;
+	}
+	
+	h1{
+	font-family: Verdana;
+	font-weight: bold;
+	color: #fbd0d7;
+	}
+	
+	h2{
+	font-family: Lucida Sans Unicode;
+	color: EA0DBB;
+	}
+	
+	h3{
+	font-family: Lucida Sans Unicode;
+	color: EA0DBB;
+	}
+	
+	h4{
+	font-family: Lucida Sans Unicode;
+	color: EA0DBB;
+	}
+	
+	p{
+	font-family: Lucida Sans Unicode;
+	color: #282c6a;
+	}
+	
+	li{
+	font-family: Lucida Sans Unicode;
+	}
+	
+	td{
+	font-family: Lucida Sans Unicode;
+	}
+	
+	tr{
+	font-family: Lucida Sans Unicode;
+	}

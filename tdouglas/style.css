@@ -1,0 +1,29 @@
+body{
+background-image: url("background.jpg")}
+
+
+h1{color: white;
+font-style:italic;
+text-align: center;
+}
+
+
+p{color:white;
+font-style: italic;
+margin: 40px;
+font-size: 40px;}
+
+
+li{color: white;
+font-style:italic;
+font-size: 20px;}
+
+h5{color: white;
+font-style:italic;
+font-weight: bold;
+font-size: 25px;}
+
+table{color: white;}
+/* hi Mrs how are you*/
+
+/* #grad{ background-image: linear-gradient( red, yellow, green); } */

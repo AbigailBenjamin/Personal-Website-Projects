@@ -1,0 +1,62 @@
+h1 {
+color:white;
+text-align: center;
+font-family:lucida handwriting;
+}
+
+
+
+h2 {
+
+color: blue;
+font-family:courier new;
+}
+
+
+
+p  {
+	color: grey;
+
+}	
+
+
+
+ul {
+	color: grey;
+}	
+
+ol {
+	color:grey;
+	font-weight: bold;
+}
+
+body {
+	background-color:pink;
+}
+
+
+
+h3 {
+	text-align: right;
+	
+}
+
+h5 {
+	text-align: center;
+}
+
+
+h4 {
+  
+text-align: center;
+color: grey;
+}  
+
+
+table {
+	margin-left: 45%;
+	color: grey;
+	font-weight:bold;
+	border-color: white;
+	
+}
